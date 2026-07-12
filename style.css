@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 
-<!--navber-->
 nav{
     background-color: white;
     display: flex;
@@ -43,7 +42,7 @@ align-items: center;
 }
 
 
-<!--banner-->
+
 .banner-card{
     background: url("./assets/banner.jpg");
  display:flex;
@@ -76,7 +75,7 @@ align-items: center;
 
 }
 
-<!--speakers--->
+
 .speakers-button{
     width: 90%;
     max-width: 1200px;
@@ -303,7 +302,7 @@ font-size: 14px;
     font-weight: 600;
     cursor: pointer;}
 
-<!--footer-->
+
 
 .footer-container{
    width: 90%;
